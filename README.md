@@ -11,7 +11,7 @@ Bootstrap3, Fontawesome, Jquery and Php PDO, Wordpress Tinymce
 
 ## Home Page
 
-http://localhost/m-store/
+http://localhost/M-Store/
 
 ![Ekran Görüntüsü (60)](https://user-images.githubusercontent.com/48553941/86037902-bed0fb80-ba48-11ea-94f3-0ef364eec9fc.png)
 
@@ -72,7 +72,7 @@ Delete Account
 
 ## Admin Area 
 
-http://localhost/m-store/admin_area/
+http://localhost/M-Store/admin_area/
 
 Login 
 
