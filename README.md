@@ -4,7 +4,14 @@ Dynamic Web Programming lesson project
 ## Explain project
 My project is gift e-commerce website is named M-Store. The website has 6 types of product categories and 5 types of person categories. When the product categories or categories are clicked, the products under that category are listed in the Shop page. There are 2 types of users in the system. These are Customers which are registered in the website and Admins which can control all products, customers and orders in the system.
 
+## I have used these technologies;  
+
+Bootstrap3, Fontawesome, Jquery and Php PDO, Wordpress Tinymce
+
+
 ## Home Page
+
+http://localhost/m-store/
 
 ![Ekran Görüntüsü (60)](https://user-images.githubusercontent.com/48553941/86037902-bed0fb80-ba48-11ea-94f3-0ef364eec9fc.png)
 
@@ -13,6 +20,10 @@ My project is gift e-commerce website is named M-Store. The website has 6 types 
 ## Footer
 
 ![Ekran Görüntüsü (62)](https://user-images.githubusercontent.com/48553941/86037941-ce504480-ba48-11ea-9abf-89ff6681d55b.png)
+
+## Register Page
+
+![Ekran Görüntüsü (80)](https://user-images.githubusercontent.com/48553941/86040611-05c0f000-ba4d-11ea-893d-17c1d1330c0c.png)
 
 ## Login Page
 
@@ -58,5 +69,50 @@ Delete Account
 ## Contact Us Page
 
 ![Ekran Görüntüsü (73)](https://user-images.githubusercontent.com/48553941/86039795-9eef0700-ba4b-11ea-9ed2-0731ba5fc6b9.png)
+
+## Admin Area 
+
+http://localhost/m-store/admin_area/
+
+Login 
+
+![Ekran Görüntüsü (75)](https://user-images.githubusercontent.com/48553941/86040269-68fe5280-ba4c-11ea-92cb-e76e628d061d.png)
+
+Dashboard
+
+![Ekran Görüntüsü (79)](https://user-images.githubusercontent.com/48553941/86040277-6c91d980-ba4c-11ea-9a70-085739c0be3b.png)
+
+Insert Product
+
+![Ekran Görüntüsü (81)](https://user-images.githubusercontent.com/48553941/86040626-0c4f6780-ba4d-11ea-842f-46cd470e55d1.png)
+
+View Products
+
+![Ekran Görüntüsü (82)](https://user-images.githubusercontent.com/48553941/86040735-3bfe6f80-ba4d-11ea-942c-96db1422b431.png)
+
+Insert Product Category
+
+![Ekran Görüntüsü (83)](https://user-images.githubusercontent.com/48553941/86040943-8d0e6380-ba4d-11ea-84d4-f8016ae3fd49.png)
+
+View Product Categories
+
+![Ekran Görüntüsü (84)](https://user-images.githubusercontent.com/48553941/86040947-90a1ea80-ba4d-11ea-901b-4be77013a429.png)
+
+View Categories
+
+![Ekran Görüntüsü (85)](https://user-images.githubusercontent.com/48553941/86041103-d363c280-ba4d-11ea-8d97-bab890669d9f.png)
+
+Admins Pages
+
+![Ekran Görüntüsü (86)](https://user-images.githubusercontent.com/48553941/86041313-276ea700-ba4e-11ea-9dcb-1cba61b3d79d.png)
+
+## Database 
+
+I used XAMPP Control Panel v3.2.4
+http://localhost/phpmyadmin/db_structure.php?server=1&db=m-store
+
+![Ekran Görüntüsü (86)](https://user-images.githubusercontent.com/48553941/86041313-276ea700-ba4e-11ea-9dcb-1cba61b3d79d.png)
+
+
 
 
