@@ -109,6 +109,7 @@ http://localhost/M-Store/admin_area/
 ## Database 
 
 I used XAMPP Control Panel v3.2.4
+
 http://localhost/phpmyadmin/db_structure.php?server=1&db=m-store
 
 ![Ekran Görüntüsü (74)](https://user-images.githubusercontent.com/48553941/86042196-79fc9300-ba4f-11ea-80ec-a5131e050c0f.png)
