@@ -33,7 +33,7 @@ http://localhost/M-Store/
 
 ![Ekran Görüntüsü (64)](https://user-images.githubusercontent.com/48553941/86038663-f2605580-ba49-11ea-93ab-569966a845b8.png)
 
-### View Details
+#### View Details
 
 ![Ekran Görüntüsü (65)](https://user-images.githubusercontent.com/48553941/86038748-16239b80-ba4a-11ea-923b-19fe38d03339.png)
 
@@ -49,19 +49,19 @@ http://localhost/M-Store/
 
 ![Ekran Görüntüsü (76)](https://user-images.githubusercontent.com/48553941/86039534-3b64d980-ba4b-11ea-9288-52b99db71959.png)
 
-My Orders
+#### My Orders
 
 ![Ekran Görüntüsü (69)](https://user-images.githubusercontent.com/48553941/86039090-99dd8800-ba4a-11ea-82cb-73e34aaed256.png)
 
-Edit Account
+#### Edit Account
 
 ![Ekran Görüntüsü (70)](https://user-images.githubusercontent.com/48553941/86039114-a530b380-ba4a-11ea-90c8-dbbf17902954.png)
 
-Change Password
+#### Change Password
 
 ![Ekran Görüntüsü (71)](https://user-images.githubusercontent.com/48553941/86039135-abbf2b00-ba4a-11ea-8d78-b7e246b7140d.png)
 
-Delete Account
+#### Delete Account
 
 ![Ekran Görüntüsü (72)](https://user-images.githubusercontent.com/48553941/86039149-af52b200-ba4a-11ea-89ef-8b83d5647731.png)
 
@@ -74,35 +74,35 @@ Delete Account
 
 http://localhost/M-Store/admin_area/
 
-Login 
+#### Login 
 
 ![Ekran Görüntüsü (75)](https://user-images.githubusercontent.com/48553941/86040269-68fe5280-ba4c-11ea-92cb-e76e628d061d.png)
 
-Dashboard
+#### Dashboard
 
 ![Ekran Görüntüsü (79)](https://user-images.githubusercontent.com/48553941/86040277-6c91d980-ba4c-11ea-9a70-085739c0be3b.png)
 
-Insert Product
+#### Insert Product
 
 ![Ekran Görüntüsü (81)](https://user-images.githubusercontent.com/48553941/86040626-0c4f6780-ba4d-11ea-842f-46cd470e55d1.png)
 
-View Products
+#### View Products
 
 ![Ekran Görüntüsü (82)](https://user-images.githubusercontent.com/48553941/86040735-3bfe6f80-ba4d-11ea-942c-96db1422b431.png)
 
-Insert Product Category
+#### Insert Product Category
 
 ![Ekran Görüntüsü (83)](https://user-images.githubusercontent.com/48553941/86040943-8d0e6380-ba4d-11ea-84d4-f8016ae3fd49.png)
 
-View Product Categories
+#### View Product Categories
 
 ![Ekran Görüntüsü (84)](https://user-images.githubusercontent.com/48553941/86040947-90a1ea80-ba4d-11ea-901b-4be77013a429.png)
 
-View Categories
+#### View Categories
 
 ![Ekran Görüntüsü (85)](https://user-images.githubusercontent.com/48553941/86041103-d363c280-ba4d-11ea-8d97-bab890669d9f.png)
 
-Admins Pages
+### Admins Pages
 
 ![Ekran Görüntüsü (86)](https://user-images.githubusercontent.com/48553941/86041313-276ea700-ba4e-11ea-9dcb-1cba61b3d79d.png)
 
